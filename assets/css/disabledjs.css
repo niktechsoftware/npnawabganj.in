@@ -1,0 +1,33 @@
+.sf-menu ul li a:focus{ 
+	margin-left:99999px;
+	width: 110%;
+}
+.menu .navbar .sf-menu a{
+	padding:10px 8.2px;
+}
+.sf-menu ul li a:active{ 
+	margin-left: 0;
+	width: auto;
+}
+#script-off-txt {
+    background-color: #dba606;
+    color: #fff;
+    font-family: "Open Sans Condensed",Arial,sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 0;
+    text-align: center;
+}
+.enable-js .script-none {
+    display: none !important;
+    visibility: hidden;
+}
+.bxslider {padding:0px; margin:0px; list-style:none}
+.bxslider li{display:none}
+.bxslider li:first-child{display:block !important}
+.news-panel {
+    overflow-y: scroll !important;
+}
+.important-link .item{
+	margin-bottom:6px!important;
+}
