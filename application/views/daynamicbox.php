@@ -24,7 +24,7 @@
 										suchna <span class='dtype'>[ Tenders ]</span>
 								</a> <i class='fa fa-file-pdf-o'></i><span class='dsize'> Size :
 										199 KB | Language: Hindi </span>
-									<p class='ndate'>Last Date : 29/03/2018</p></li>
+									<p class='ndate'>Last Date : 23/04/2019</p></li>
 								<li class='news-item'><span class='arw'><i
 										class='fa fa-long-arrow-right'></i></span><a class='adtext'
 									target='_blank'
@@ -32,7 +32,7 @@
 										ई-निविदा सूचना <span class='dtype'>[ Tenders ]</span>
 								</a> <i class='fa fa-file-pdf-o'></i> <span class='dsize'> Size
 										: 273 KB | Language: Hindi </span>
-									<p class='ndate'>Last Date : 28/03/2018</p></li>
+									<p class='ndate'>Last Date : 23/04/2019</p></li>
 								<li class='news-item'><span class='arw'><i
 										class='fa fa-long-arrow-right'></i></span> <a class='adtext'
 									target='_blank'
@@ -41,7 +41,7 @@
 										<span class='dtype'>[ Advertisements ]</span>
 								</a> <i class='fa fa-file-pdf-o'></i><span class='dsize'> Size :
 										684 KB | Language: Hindi </span>
-									<p class='ndate'>Last Date : 15/09/2016</p></li>
+									<p class='ndate'>Last Date : 15/05/2019</p></li>
 							</ul>
 						</div>
 						<a href="#" class="btn btn-warning newsbtn">View All News</a>
@@ -51,11 +51,13 @@
 			<div class="col-md-5 col-sm-12 col-xs-12 ">
 				<div class="well">
 					<h2>Social Welfare Profile</h2>
-					<p>Nagar Palika (Municipal Council or Town Municipality) is an
-						urban local body (ULB) that administers a city having population
-						of 1 lakh or above.</p>
-					<p>Under the urban local self governance system, the Nagar
-						Panchayat is administratively part of the district it is located
+					<p>Nawabganj is a town and a nagar panchayat in Unnao district in the Indian state of Uttar Pradesh.
+Demographics
+As of 2011 India census, Nawabganj had a population of 11,545. Males constitute 52% of the population and females 48%. Nawabganj has an average literacy rate of 56%, lower than the national average of 59.5%: male literacy is 62%, and female literacy is 49%. In Nawabganj, 15% of the population is under 6 years of age.
+Nagar Panchayat Nawabganj establish in 1972. It is situated near Lucknow –Kanpur National Highway. Here Paryatk Aawas Grah is also situated commonly known as Birds Sanctuary. The Ancient Goddess Maa Durga’s Temple is also here which is very famous temple. The development of Nagar Panchayat Nawabganj is very progressive.
+</p>
+					<!-- <p>Under the urban local self governance system, the Nagar -->
+						<!-- Panchayat is administratively part of the district it is located
 						in. Nagar Palikas are entrusted with some duties and
 						responsibilities, as enshrined in the Constitutional (74th
 						Amendment) Act, 1992. It interacts directly with the State
@@ -65,8 +67,8 @@
 						representatives for a term of five years. The town is divided into
 						wards according to its population, and representatives are elected
 						from each ward and a chairman also elected by citizen of Nagar
-						Palika.
-					</p>
+						Palika. -->
+					<!-- </p> -->
 					<a href="#"
 						class="btn btn-primary btn-sm"> Read More</a>
 				</div>

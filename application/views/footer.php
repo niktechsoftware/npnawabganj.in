@@ -2,13 +2,13 @@
 <div class="container">
 <div class="row">
 <div class="col-xs-12 col-sm-8 col-md-8 ">
-<div class="footer-left"><a href="#">Terms &amp; Conditions</a> | Copyright 2018-19 </a> </div>
-<div class="footer-text hidden-xs">Content on this website is published and managed by Nagar Panchayat Unnao, Uttar Pradesh.<br /> For any query regarding this website, Please contact Office of Nagar Panchayat Unnao, Uttar Pradesh.</div>
+<div class="footer-left"><a href="#">Terms &amp; Conditions</a> | Copyright 2019-20 </a> </div>
+<div class="footer-text hidden-xs">Content on this website is published and managed by Nagar Panchayat  Nawabgunj Unnao, Uttar Pradesh.<br /> For any query regarding this website, Please contact Office of Nagar Panchayat Nawabgunj Unnao, Uttar Pradesh.</div>
 </div>
 <div class="col-md-4 col-sm-4 hidden-xs">
 <div class="footer-right">
 <div class="visitor ">You are Visitor No. : <a title="shopify analytics tool" href="http://statcounter.com/shopify/" target="_blank" rel="noopener"><img src="http://c.statcounter.com/10982739/0/d4817bf0/0/" alt="shopify analytics tool" style="border: none;" /></a></div>
-<div class="updated">Last reviewed and updated on : Tuesday, Nov 20 2018  4:14PM</div>
+<div class="updated">Last reviewed and updated on : Tuesday, may 20 2019  4:14PM</div>
 <div style="color: #fff;">Designed &amp; Developed by: <a href="http://niktechsoftware.com" target="_blank" class="external" rel="noopener"><strong style="color: #cb1111;"><i>Niktech Software Solutions</div>
 </div>
 </div>
@@ -252,7 +252,7 @@ $(".dropdown ul li a").removeAttr("aria-expanded","false")
     </noscript>
 <script type="text/javascript" src="<?php echo base_url(); ?>assets/en_Themes/myscript.js"></script><script type="text/javascript" src="en_Themes/search-code.js"></script>
    
-    
+    </div>
 </body>
 
 </html>

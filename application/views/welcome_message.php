@@ -89,16 +89,17 @@
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
 <div class="projectdiv"><img src="<?php echo base_url(); ?>assets/Images/services-3.jpg" class="proimg" />
-<h4>Sewers and drains</h4>
+<h4>Pesticide spraying</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
 <div class="projectdiv"><img src="<?php echo base_url(); ?>assets/Images/services-4.jpg" class="proimg" />
-<h4>Park Maintenance</h4>
+<h4>Dying in the shop</h4>
 </div>
 </div>
 </div>
 </div>
+<center>
 </section> <section class="weblink">
 <div class="container">
 <div class="important-link row">

@@ -688,6 +688,7 @@ padding:0px 10px; border-bottom:1px solid #e4e4e4;
 }
 /*footer*/
 .footer {
+    top:140px;
 	background-color:#2C2D32;
 	color: #eee;
 	padding: 6px 0px;
