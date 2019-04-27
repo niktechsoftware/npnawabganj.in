@@ -9,10 +9,10 @@
               	 
 				
 					<div class="col-sm-3" style="height:300px">  
-								<img alt="Executive Officer,Nagar Panchayat" src="<?php echo base_url();?>assets/site/writereaddata/siteContent/Chairman.jpg" title="Executive Officer,Nagar Panchayat" style="height:230px;width:350px;">
+								<img alt="Executive Officer,Nagar Panchayat" src="<?php echo base_url();?>assets/site/writereaddata/siteContent/chairman.jpg" title="Executive Officer,Nagar Panchayat" style="height:230px;width:300px;">
 								<div class="caption">
 									<center><h3>Mr.Dileep Lashkari</h3>
-									<p>President Of,Nagar Panchayat Nawabgunj</p></center>
+									<p>President Of Nagar Panchayat Nawabgunj</p></center>
 								</div>
 							</div>                             
 													

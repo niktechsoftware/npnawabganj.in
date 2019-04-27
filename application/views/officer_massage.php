@@ -10,7 +10,7 @@
               	 
 				
 					<div class="col-sm-3" style="height:300px">  
-								<img alt="Executive Officer,Nagar Panchayat" src="<?php echo base_url();?>assets/site/writereaddata/siteContent/eo-unnao.jpg" title="Executive Officer,Nagar Panchayat" style="height:230px;width:350px;">
+								<img alt="Executive Officer,Nagar Panchayat" src="<?php echo base_url();?>assets/site/writereaddata/siteContent/eo-unnao.jpg" title="Executive Officer,Nagar Panchayat" style="height:230px;width:300px;">
 								<div class="caption">
 									<center><h3>Mr.Kulwant Singh Rathaur</h3>
 									<p>Executive Officer,Nagar Panchayat Nawabgunj</p></center>
