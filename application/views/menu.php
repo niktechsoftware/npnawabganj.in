@@ -5,7 +5,7 @@
 							<div class="container">
 							<div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button></div>
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"><ul id="nav" class="sf-menu">
-							<li class="home active"><a class=""   href="http://localhost/npnawabganj.in/#"></a></li>
+							<li class="home active"><a class=""   href="<?php echo base_url(); ?>#"></a></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">About Us</a><ul class="">
 							<li class=""><a class=""   href="<?php echo base_url(); ?>about">About nawabgunj  Nagar Panchayat unnao</a></li>
 							<!-- <li class="dropdown-submenu"><a class=""   href="JavaScript:void(0);">Profile</a><ul class="">
@@ -21,8 +21,8 @@
 							
 							</ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">nawabgunj NPP</a><ul class="">
-							<li class=""><a class=""   href="en/page/history-of-city.html">History of nagar panchayat</a></li>
-							<!-- <li class=""><a class=""   href="en/page/map.html">Map</a></li> -->
+							<!--	<li class=""><a class=""   href="en/page/history-of-city.html">History of nagar panchayat</a></li>
+						 <li class=""><a class=""   href="en/page/map.html">Map</a></li> -->
 							<!-- <li class=""><a class=""   href="en/page/how-to-reach.html">How to reach</a></li> -->
 							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Population">Population</a></li>
 							<li class="dropdown-submenu"><a class=""   href="JavaScript:void(0);">Places to visit</a><ul class="">
@@ -30,27 +30,28 @@
 							<li class=""><a class=""   href="en/page/museums.html">Museums</a></li>
 							<li class=""><a class=""   href="en/page/nature-amp%3b-parks.html">Nature &amp; Parks</a></li> -->
 							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Holy_place">Holy Places</a></li>
-							<li class=""><a class=""   href="en/page/dams.html">Dams</a></li>
-							<li class=""><a class=""   href="en/page/fairs-amp%3b-festivals.html">Fairs &amp; Festivals</a></li></ul></li></ul></li>
+							<!--<li class=""><a class=""   href="en/page/dams.html">Dams</a></li>
+							<li class=""><a class=""   href="en/page/fairs-amp%3b-festivals.html">Fairs &amp; Festivals</a></li>-->
+							</ul></li></ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">Services</a><ul class="">
-							<li class=""><a class=""   href="en/page/water-supply.html">Water Supply</a></li>
-							<li class=""><a class=""   href="en/page/road-construction.html">Road Construction</a></li>
+							<li class=""><a class=""   href="#">Water Supply</a></li>
+							<li class=""><a class=""   href="#">Road Construction</a></li>
 							<!-- <li class=""><a class=""   href="en/page/sewage-construction.html">Sewage Construction</a></li> -->
-							<li class=""><a class=""   href="en/page/sanitation-cleaners.html">Sanitation & Cleaners</a></li>
-							<li class=""><a class=""   href="en/page/street-light-maintenance.html">Street Light Maintenance</a></li>
+							<li class=""><a class=""   href="#l">Sanitation & Cleaners</a></li>
+							<li class=""><a class=""   href="#">Street Light Maintenance</a></li>
 							<!-- <li class=""><a class=""   href="en/page/solid-waste-management.html">Solid Waste Management</a></li> -->
-							<li class=""><a class=""   href="en/page/records-of-births-and-deaths.html">Records of Births and Deaths</a></li>
-							<li class=""><a class=""   href="en/page/issuing-trade-license.html">Issuing Trade License</a></li>
-							<li class=""><a class=""   href="en/page/town-development.html">Town Development</a></li></ul></li>
+							<li class=""><a class=""   href="#">Records of Births and Deaths</a></li>
+							<li class=""><a class=""   href="#">Issuing Trade License</a></li>
+							<li class=""><a class=""   href="#">Town Development</a></li></ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">Department</a><ul class="">
 							<!-- <li class=""><a class=""   href="en/page/public-work-department.html">Public Work Department</a></li> -->
-							<li class=""><a class=""   href="en/page/water-supply-department.html">Water Supply Department</a></li>
-							<li class=""><a class=""   href="en/page/public-health-department.html">Public Health Department</a></li>
-							<li class=""><a class=""   href="en/page/tax-department.html">Tax Department</a></li>
-							<li class=""><a class=""   href="en/page/street-light-department.html">Street Light Department</a></li>
+							<li class=""><a class=""   href="#">Water Supply Department</a></li>
+							<li class=""><a class=""   href="#">Public Health Department</a></li>
+							<li class=""><a class=""   href="#">Tax Department</a></li>
+							<li class=""><a class=""   href="#">Street Light Department</a></li>
 							<!-- <li class=""><a class=""   href="en/page/town-planning-division.html">Town Planning Division</a></li> -->
-							<li class=""><a class=""   href="en/page/advertisement-department.html">Advertisement Department</a></li>
-							<li class=""><a class=""   href="en/page/license-department.html">License Department</a></li></ul></li>
+							<li class=""><a class=""   href="#">Advertisement Department</a></li>
+							<li class=""><a class=""   href="#">License Department</a></li></ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">Schemes</a><ul class="">
 							<li class="dropdown-submenu"><a class=""   href="JavaScript:void(0);">Central Govt. Schemes</a><ul class="">
 							<li class=""><a class=""   href="en/page/amrut-mission.html">प्रधानमन्त्री अवास योजना</a></li>
