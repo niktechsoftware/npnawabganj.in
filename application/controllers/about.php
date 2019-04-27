@@ -60,4 +60,11 @@ public function Holy_place() {
 		$this->load->view('holy_place');
 		 $this->load->view('footer');
 }
+public function gallery() {
+        $this->load->view('header');
+        $this->load->view("menu");
+         // $this->load->view("slider");
+        $this->load->view('gallery');
+         $this->load->view('footer');
+}
 }
