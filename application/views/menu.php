@@ -11,23 +11,25 @@
 							<!-- <li class="dropdown-submenu"><a class=""   href="JavaScript:void(0);">Profile</a><ul class="">
 							<li class=""><a class=""   href="en/page/social-welfare-profile.html">Social Welfare Profile</a></li>
 							<li class=""><a class=""   href="en/page/municipal-activities-profile.html">Municipal Activities Profile</a></li></ul></li> -->
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/Executive">Executive Officer&rsquo;s Message</a></li>
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/Chairman">Chairman&rsquo;s Message</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Executive">Executive Officer&rsquo;s Message</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Chairman">Chairman&rsquo;s Message</a></li>
 							<!-- <li class=""><a class=""   href="en/page/npp-mission-vision.html">NPP Mission/ Vision</a></li> -->
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/Functions">Role &amp; Functions</a></li>
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/Staff_detail">Staff Details</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Functions">Role &amp; Functions</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Staff_detail">Staff Details</a></li>
 							<!-- <li class=""><a class=""   href="en/page/organization-structure.html">Organization Structure</a></li> -->
-							<li class=""><a class=""   href="en/page/mohalla-wards-covered-by-unnao-npp.html">Mohalla & Wards Covered by nawabgunj NPP</a></li></ul></li>
+							<!--<li class=""><a class=""   href="en/page/mohalla-wards-covered-by-unnao-npp.html">Mohalla & Wards Covered by nawabgunj NPP</a></li>-->
+							
+							</ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">nawabgunj NPP</a><ul class="">
 							<li class=""><a class=""   href="en/page/history-of-city.html">History of nagar panchayat</a></li>
 							<!-- <li class=""><a class=""   href="en/page/map.html">Map</a></li> -->
 							<!-- <li class=""><a class=""   href="en/page/how-to-reach.html">How to reach</a></li> -->
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/Population">Population</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Population">Population</a></li>
 							<li class="dropdown-submenu"><a class=""   href="JavaScript:void(0);">Places to visit</a><ul class="">
 							<!-- <li class=""><a class=""   href="en/page/monuments.html">Monuments</a></li>
 							<li class=""><a class=""   href="en/page/museums.html">Museums</a></li>
 							<li class=""><a class=""   href="en/page/nature-amp%3b-parks.html">Nature &amp; Parks</a></li> -->
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/Holy_place">Holy Places</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/Holy_place">Holy Places</a></li>
 							<li class=""><a class=""   href="en/page/dams.html">Dams</a></li>
 							<li class=""><a class=""   href="en/page/fairs-amp%3b-festivals.html">Fairs &amp; Festivals</a></li></ul></li></ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">Services</a><ul class="">
@@ -57,7 +59,7 @@
 							<li class=""><a class=""   href="en/page/digital-india-program.html">पंडित दीनदयाल उपाध्याय नगर विकास योजना</a></li></ul></li>
 							<li class=""><a class=""   href="en/page/state-sponsored-schemes.html">State Sponsored Schemes</a></li></ul></li>
 							<li class="dropdown"><a class=""   href="JavaScript:void(0);">Gallery</a><ul class="">
-							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/About/gallery">Photo Gallery</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/gallery">Photo Gallery</a></li>
 							<!-- <li class=""><a class=""   href="en/page/video-gallery.html">Video Gallery</a></li> -->
 							<li class=""><a class=""   href="en/pressrelease.html">Press Release</a></li></ul></li>
 							<li class="dropdown"> <a class=""   href="JavaScript:void(0);">Contact us</a><ul class="">
