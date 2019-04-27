@@ -78,22 +78,22 @@
 <h2>Our Services</h2>
 <div class="row">
 <div class="col-md-3 col-sm-12 col-xs-12">
-<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/Images/services-1.jpg" class="proimg" />
+<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-1.jpg" class="proimg" />
 <h4>Clean India</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
-<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/Images/services-2.jpg" class="proimg" />
+<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-2.jpg" class="proimg" />
 <h4>Road Construction</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
-<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/Images/services-3.jpg" class="proimg" />
+<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-3.jpg" class="proimg" />
 <h4>Pesticide spraying</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
-<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/Images/services-4.jpg" class="proimg" />
+<div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-4.jpg" class="proimg" />
 <h4>Dying in the shop</h4>
 </div>
 </div>
