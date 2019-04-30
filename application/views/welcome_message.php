@@ -49,7 +49,7 @@
 <li><i class="fa fa-file-o green"></i>
 <div class="ca-content">
 <h2 class="ca-main">Grievances Redressal</h2>
-<h2 class="ca-sub"><a href="http://jansunwai.up.nic.in/" marked="1" target="_blank" rel="noopener">Grievances <br />Redressal</a></h2>
+<h2 class="ca-sub"><a href="http://jansunwai.up.nic.in/"> marked="1" target="_blank" rel="noopener">Grievances <br />Redressal</a></h2>
 </div>
 </li>
 <li><i class="fa fa-money teal"></i>
@@ -61,7 +61,7 @@
 <li><i class="fa fa-inr  sky"></i>
 <div class="ca-content">
 <h2 class="ca-main">Pension</h2>
-<h2 class="ca-sub"><a href="#" marked="1">Pension</a></h2>
+<h2 class="ca-sub"><a href="https://pensionersportal.gov.in/Mscheme.asp">Pension</a></h2>
 </div>
 </li>
 <li><i class="fa fa-cart-plus red"></i>
