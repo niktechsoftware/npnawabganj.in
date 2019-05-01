@@ -1,4 +1,4 @@
-	 <center><h2>Office Nagar Panchayat, Nawabganj, Unnao</h2></center>
+	 <center><h2>Stoff Detail Of Nagar Panchayat, Nawabganj, Unnao</h2></center>
 <div class="col-md-12 col-sm-12 col-xs-12 " style="color:white;padding-top: 35px">
 				<div class="about"> 
 			</div>

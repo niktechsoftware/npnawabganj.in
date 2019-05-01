@@ -68,4 +68,11 @@ public function gallery() {
         $this->load->view('gallery');
          $this->load->view('footer');
 }
+public function Contact_us() {
+        $this->load->view('header');
+        $this->load->view("menu");
+         // $this->load->view("slider");
+        $this->load->view('contact_us');
+         $this->load->view('footer');
+}
 }

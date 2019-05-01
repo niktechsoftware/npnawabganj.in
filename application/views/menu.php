@@ -64,7 +64,7 @@
 							<!-- <li class=""><a class=""   href="en/page/video-gallery.html">Video Gallery</a></li> -->
 							<li class=""><a class=""   href="en/pressrelease.html">Press Release</a></li></ul></li>
 							<li class="dropdown"> <a class=""   href="JavaScript:void(0);">Contact us</a><ul class="">
-							<li class=""><a class=""   href="en/page/contact-details.html">Contact Details</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/contact_us">Contact Details</a></li>
 							<li class=""><a class=""   href="en/page/frequently-asked-questions.html">Frequently Asked Questions</a></li>
 							<li class=""> <a class=""   href="en/feedbacka94d.html?cd=OAAyAA%3D%3D">Feedback</a></li></ul></li></ul></div>
 							<!-- <li class=""><a class=""   href="en/page/budget.html">Budget</a></li>
