@@ -57,7 +57,7 @@ Nagar Panchayat Nawabganj establish in 1972. It is situated near Lucknow –Kanp
 								title="Shri Suresh Kumar Khanna" /><br />
 							<div class="caption">
 								<h3>Mr. Dileep Lashkari</h3>
-								<p>Hon'ble Chairman, Nagar Panchayat Nawabgunj Unnao</p>
+								<p>Hon'ble Chairman, Nagar Panchayat Nawabgunj </Unnaop>
 							</div>
 						</div>
 					</div>

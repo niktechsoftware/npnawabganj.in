@@ -79,22 +79,22 @@
 <div class="row">
 <div class="col-md-3 col-sm-12 col-xs-12">
 <div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-1.jpg" class="proimg" />
-<h4>Clean India</h4>
+<h4>स्वच्छभारत मिशन</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
 <div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-2.jpg" class="proimg" />
-<h4>Road Construction</h4>
+<h4>स्वच्छता के प्रति जागरुक करने के लिए दिलाई शपथ</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
 <div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-3.jpg" class="proimg" />
-<h4>Pesticide spraying</h4>
+<h4>कीटनाशक छिड़कते हुए</h4>
 </div>
 </div>
 <div class="col-md-3 col-sm-12 col-xs-12">
 <div class="projectdiv"><img src="<?php echo base_url(); ?>assets/images/services-4.jpg" class="proimg" />
-<h4>Dying in the shop</h4>
+<h4>दुकान में छापा मारते हुए</h4>
 </div>
 </div>
 </div>
