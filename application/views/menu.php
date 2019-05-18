@@ -20,7 +20,7 @@
 							<!--<li class=""><a class=""   href="en/page/mohalla-wards-covered-by-unnao-npp.html">Mohalla & Wards Covered by nawabgunj NPP</a></li>-->
 							
 							</ul></li>
-							<li class="dropdown"><a class=""   href="JavaScript:void(0);">nawabgunj NPP</a><ul class="">
+							<li class="dropdown"><a class=""   href="JavaScript:void(0);">Nawabgunj NPP</a><ul class="">
 							<!--	<li class=""><a class=""   href="en/page/history-of-city.html">History of nagar panchayat</a></li>
 						 <li class=""><a class=""   href="en/page/map.html">Map</a></li> -->
 							<!-- <li class=""><a class=""   href="en/page/how-to-reach.html">How to reach</a></li> -->
@@ -65,7 +65,7 @@
 							<li class=""><a class=""   href="en/pressrelease.html">Press Release</a></li></ul></li>
 							<li class="dropdown"> <a class=""   href="JavaScript:void(0);">Contact us</a><ul class="">
 							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/contact_us">Contact Details</a></li>
-							<li class=""><a class=""   href="en/page/frequently-asked-questions.html">Frequently Asked Questions</a></li>
+							<li class=""><a class=""   href="<?php echo base_url(); ?>index.php/about/question">Frequently Asked Questions</a></li>
 							<li class=""> <a class=""   href="en/feedbacka94d.html?cd=OAAyAA%3D%3D">Feedback</a></li></ul></li></ul></div>
 							<!-- <li class=""><a class=""   href="en/page/budget.html">Budget</a></li>
 							<li class=""><a class=""   href="en/tenders.html">Tenders</a></li>
