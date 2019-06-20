@@ -23,7 +23,7 @@ Nagar Panchayat Nawabganj establish in 1972. It is situated near Lucknow –Kanp
 					who come from the state public service are appointed by the state
 					government to control the administrative affairs of the <span>N</span><span>agar<span>&nbsp;</span></span><span>P</span><span>alika</span>.
 				</p>
-				<a href="en/error.html" class="btn btn-success btn-sm">Read More</a>
+				<a href="http://localhost/npnawabganj.in/" class="btn btn-success btn-sm">Read More</a>
 			</div>
 			<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12 leader">
 				<div class="row">
