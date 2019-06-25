@@ -8,7 +8,12 @@
 <div class="col-md-4 col-sm-4 hidden-xs">
 <div class="footer-right">
 <div class="visitor ">You are Visitor No. : <a title="shopify analytics tool" href="http://statcounter.com/shopify/" target="_blank" rel="noopener"><img src="http://c.statcounter.com/10982739/0/d4817bf0/0/" alt="shopify analytics tool" style="border: none;" /></a></div>
-<div class="updated">Last reviewed and updated on : Tuesday, may 20 2019  4:14PM</div>
+<div class="updated">Last reviewed and updated on : <p id="demo"></p></div>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
 <div style="color: #fff;">Designed &amp; Developed by: <a href="http://niktechsoftware.com" target="_blank" class="external" rel="noopener"><strong style="color: #cb1111;"><i>Niktech Software Solutions</div>
 </div>
 </div>

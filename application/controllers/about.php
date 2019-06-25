@@ -74,5 +74,13 @@ public function Contact_us() {
          // $this->load->view("slider");
         $this->load->view('contact_us');
          $this->load->view('footer');
+
+}
+public function question() {
+        $this->load->view('header');
+        $this->load->view("menu");
+         // $this->load->view("slider");
+        $this->load->view('question');
+         $this->load->view('footer');
 }
 }
