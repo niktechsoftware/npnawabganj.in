@@ -20,7 +20,7 @@
 								<li class='news-item'><span class='arw'><i
 										class='fa fa-long-arrow-right'></i></span><a class='adtext'
 									target='_blank'
-									href='site/writereaddata/UploadNews/corrigendum/pdf/C_201805211048417155.pdf'>Nivida
+									href='assets/site/writereaddata/UploadNews/corrigendum/pdf/C_201805211048417155.pdf'>Nivida
 										suchna <span class='dtype'>[ Tenders ]</span>
 								</a> <i class='fa fa-file-pdf-o'></i><span class='dsize'> Size :
 										199 KB | Language: Hindi </span>
@@ -28,7 +28,7 @@
 								<li class='news-item'><span class='arw'><i
 										class='fa fa-long-arrow-right'></i></span><a class='adtext'
 									target='_blank'
-									href='site/writereaddata/UploadNews/corrigendum/pdf/C_201805211050481897.pdf'>अल्पकालीन
+									href='assets/site/writereaddata/UploadNews/corrigendum/pdf/C_201805211050481897.pdf'>अल्पकालीन
 										ई-निविदा सूचना <span class='dtype'>[ Tenders ]</span>
 								</a> <i class='fa fa-file-pdf-o'></i> <span class='dsize'> Size
 										: 273 KB | Language: Hindi </span>
